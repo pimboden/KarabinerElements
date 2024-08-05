@@ -1,4 +1,4 @@
-This file contains rules for the programm Karabiner Elements, that Help me switch quicly from my main OS Windows to MAC OS
+This file contains rules for the programm Karabiner Elements, that helps me switch quicly from my main OS Windows to MAC OS
 
 It contains mainly 2 complex rule.sets
 
